@@ -1,0 +1,1 @@
+Exe fajl je u zadatak_Danilo_Radulovic\bin\Debug\netcoreapp3.1\zadatak_Danilo_Radulovic

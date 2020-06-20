@@ -1,0 +1,13 @@
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\obj\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.csprojAssemblyReference.cache
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\obj\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.csproj.CoreCompileInputs.cache
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\obj\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.AssemblyInfoInputs.cache
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\obj\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.AssemblyInfo.cs
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\bin\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.exe
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\bin\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.deps.json
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\bin\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.runtimeconfig.json
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\bin\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.runtimeconfig.dev.json
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\bin\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.dll
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\bin\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.pdb
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\obj\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.dll
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\obj\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.pdb
+C:\Users\legaz\source\repos\Zadatak_Danilo_Radulovic\Zadatak_Danilo_Radulovic\obj\Debug\netcoreapp3.1\Zadatak_Danilo_Radulovic.genruntimeconfig.cache
